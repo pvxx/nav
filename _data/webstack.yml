@@ -75,7 +75,10 @@
           description: 印象笔记
           - title: 有道笔记
           url: https://note.youdao.com/
-          description: 有道笔记         
+          description: 有道笔记  
+          - title: Notion
+          url: https://www.notion.so/
+          description: Notion    
     - name: 网络硬盘
       links:
         - title: 坚果云
