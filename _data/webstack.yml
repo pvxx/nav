@@ -25,6 +25,7 @@
           url: https://www.vultr.com/
           description: vultr
         - title: 阿里云国际版
+          logo: https://www.alibaba.com/favicon.ico
           url: https://www.alibabacloud.com/zh/product
           description: 阿里云国际版      
         - title: 腾讯云
@@ -44,12 +45,14 @@
           url: https://greencloudvps.com/billing/index.php
           description: 绿云
         - title: microcloud
+          logo: https://www.microcloud.cc/templates/lagom2/assets/img/favicons/favicon-32.png
           url: https://www.microcloud.cc/
           description: microcloud
         - title: akkocloud
           url: https://www.akkocloud.com/
           description: 二次元vps
         - title: V.PS
+          logo: https://vps.hosting/templates/2019/dist/images/favicon-32x32.png
           url: https://vps.hosting/clientarea/services/tokyo-mini-kvm-vps/      
           description: V.PS
         - title: lightnode
