@@ -52,9 +52,11 @@
           url: https://vps.hosting/clientarea/services/tokyo-mini-kvm-vps/      
           description: V.PS
         - title: lightnode
-          url: https://www.lightnode.com/     
+          url: https://www.lightnode.com/
           description: lightnode
-
+        - title: Hostyun
+          url: https://www.hostyun.com/
+          description: Hostyun
 
 - name: 常用工具
   icon: linecons-diamond
