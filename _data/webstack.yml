@@ -86,6 +86,13 @@
         - title: 金山文档
           url: https://www.kdocs.cn/latest
           description: 金山文档          
+        - title: onedrive
+          url: https://onedrive.live.com
+          description: onedrive  
+          - title: Dropbox
+          url: https://www.dropbox.com/home
+          description: Dropbox
+
     - name: 视频网站
       links:
         - title: 腾讯视频
