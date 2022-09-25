@@ -95,6 +95,7 @@
           url: https://ondrive.live.com/
           description: Onedrive
         - title: Dropbox
+          logo: https://cfl.dropboxstatic.com/static/metaserver/static/images/favicon-vfl8lUR9B.ico
           url: https://www.dropbox.com/home
           description: Dropbox
     - name: 视频网站
