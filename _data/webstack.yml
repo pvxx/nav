@@ -34,6 +34,7 @@
           url: https://cloud.tencent.com/
           description: 腾讯云
         - title: racknerd
+          logo: https://racknerd.com/favicon.ico
           url: https://racknerd.com/ 
           description: racknerd
         - title: BuyVm
