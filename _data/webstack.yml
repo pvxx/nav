@@ -100,6 +100,7 @@
     - name: 视频网站
       links:
         - title: 腾讯视频
+          logo: https://cloud.tencent.com/favicon.ico
           url: https://v.qq.com/
           description: 腾讯视频
 - name: 其它
