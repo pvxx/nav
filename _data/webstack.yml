@@ -82,13 +82,13 @@
       links:
         - title: 坚果云
           url: https://www.jianguoyun.com/d/home#/
-          description: 坚果云          
+          description: 坚果云
         - title: 金山文档
           url: https://www.kdocs.cn/latest
-          description: 金山文档          
+          description: 金山文档
         - title: onedrive
           url: https://onedrive.live.com
-          description: onedrive  
+          description: onedrive
           - title: Dropbox
           url: https://www.dropbox.com/home
           description: Dropbox
