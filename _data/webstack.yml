@@ -90,6 +90,7 @@
           url: https://www.jianguoyun.com/d/home#/
           description: 坚果云
         - title: 金山文档
+          logo: https://www.kdocs.cn/favicon.ico?cb=https%3A%2F%2Fwww.kdocs.cn%2Fm%2Fcompat%2F
           url: https://www.kdocs.cn/latest
           description: 金山文档
         - title: Onedrive
