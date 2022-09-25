@@ -81,6 +81,10 @@
         - title: 坚果云
           url: https://www.jianguoyun.com/d/home#/
           description: 坚果云          
+      links:
+        - title: 金山文档
+          url: https://www.kdocs.cn/latest
+          description: 金山文档          
     - name: 视频网站
       links:
         - title: 腾讯视频
