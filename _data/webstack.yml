@@ -2,10 +2,10 @@
   icon: linecons-star
   links: 
     - title: 115blog
-      logo: https://hostloc.com/favicon.ico
       url: https://115blog.com
       description: 115blog
     - title: Hostloc
+      logo: https://hostloc.com/favicon.ico
       url: https://hostloc.com/
       description: Hostloc
 - name: 服务器资源
@@ -18,6 +18,7 @@
           description: 搬瓦工
         - title: 数字海洋
           url: https://www.digitalocean.com/
+          logo: https://www.digitalocean.com/_next/static/media/favicon-32x32.b7ef9ede.png
           description: digital ocean
         - title: vultr
           url: https://www.vultr.com/
