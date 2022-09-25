@@ -4,7 +4,12 @@
     - title: 115blog
       url: https://115blog.com
       description: 115blog
-- name: VPS
+  links: 
+    - title: Hostloc
+      url: https://hostloc.com/
+      description: Hostloc
+
+- name: 服务器资源
   icon: linecons-doc
   sub: 
     - name: VPS
@@ -63,7 +68,7 @@
           url: https://zh.z-lib.org/
           description: Z-lib
           
-    - name: 123
+    - name: 视频网站
       links:
         - title: Sketch
           url: https://sketchapp.com/
