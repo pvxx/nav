@@ -2,11 +2,8 @@
   icon: linecons-star
   links: 
     - title: Dribbble
-      url: https://dribbble.com/
-      description: 全球UI设计师作品分享平台。
-    - title: Behance
-      url: https://behance.net/
-      description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
+      url: https://115blog.com
+      description: 115blog
     
 
 - name: VPS
@@ -50,22 +47,12 @@
       description: V.PS
     - title: lightnode
       url: https://www.lightnode.com/     
-      description: lightnode
-
-
-
-      
+      description: lightnode      
 
 
 - name: 常用工具
   icon: linecons-diamond
   sub: 
-    - name: 图形创意
-      links:
-        - title: photoshop
-          url: https://www.adobe.com/cn/products/photoshop.html
-          logo: /assets/images/logos/photoshop.png
-          description: Photoshop不需要解释
 
     - name: 界面设计
       links:
@@ -73,30 +60,4 @@
           url: https://sketchapp.com/
           logo: /assets/images/logos/sketchapp.png
           description: The digital design toolkit
-
-    - name: 交互动效
-      links:
-        - title: Adobe After Effects CC
-          url: https://www.adobe.com/cn/products/aftereffects/
-          logo: /assets/images/logos/AdobeAfterEffectsCC.png
-          description: 电影般的视觉效果和动态图形。
-
-
-    - name: 在线配色
-      links:
-        - title: khroma
-          url: http://khroma.co/generator/
-          logo: /assets/images/logos/khroma.png
-          description: Khroma is the fastest way to discover, search, and save color combos you'll want to use.
-          
-    - name: 在线工具
-      links:
-        - title: tinypng
-          url: https://tinypng.com/
-          logo: /assets/images/logos/tinypng.png
-          description: Optimize your images with a perfect balance in quality and file size.
-        - title: goqr
-          url: http://goqr.me/
-          logo: /assets/images/logos/goqr.png
-          description: create QR codes for free (Logo, T-Shirt, vCard, EPS)
     
