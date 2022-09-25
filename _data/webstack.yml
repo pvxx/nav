@@ -52,6 +52,7 @@
           url: https://vps.hosting/clientarea/services/tokyo-mini-kvm-vps/      
           description: V.PS
         - title: lightnode
+          logo: https://www.lightnode.com/favicon.ico
           url: https://www.lightnode.com/     
           description: lightnode      
 
