@@ -9,13 +9,16 @@
       description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
     
 
-- name: 社区资讯
+- name: VPS
   icon: linecons-doc
   links: 
-    - title: 雷锋网
-      logo: /assets/images/logos/leiphone.png
-      url: https://www.leiphone.com/
-      description: 人工智能和智能硬件领域的互联网科技媒体
+    - title: 搬瓦工
+      url: https://bandwagonhost.com/
+      description: 搬瓦工
+  links: 
+    - title: 数字海洋
+      url: https://www.digitalocean.com/
+      description: digital ocean
       
 
 - name: 常用工具
