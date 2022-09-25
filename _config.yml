@@ -32,7 +32,7 @@ plugins:
   - jekyll-feed
 
 github:
-  repo: 0xl2oot/webstack-jekyll
+  repo: 115blog/db
 
 # Exclude from processing.
 # The following items will not be processed, by default.
