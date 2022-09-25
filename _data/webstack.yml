@@ -4,56 +4,55 @@
     - title: 115blog
       url: https://115blog.com
       description: 115blog
-    
-
 - name: VPS
   icon: linecons-doc
-  links: 
-    - title: 搬瓦工
-      url: https://bandwagonhost.com/
-      description: 搬瓦工
-    - title: 数字海洋
-      url: https://www.digitalocean.com/
-      description: digital ocean
-    - title: vultr
-      url: https://www.vultr.com/
-      description: vultr
-    - title: 阿里云国际版
-      url: https://www.alibabacloud.com/zh/product
-      description: 阿里云国际版      
-    - title: 腾讯云
-      url: https://cloud.tencent.com/
-      description: 腾讯云
-    - title: 腾讯云
-      url: https://cloud.tencent.com/
-      description: 腾讯云
-    - title: racknerd
-      url: https://racknerd.com/ 
-      description: racknerd
-    - title: BuyVm
-      url: https://my.frantech.ca/cart.php 
-      description: BuyVm
-    - title: 绿云
-      url: https://greencloudvps.com/billing/index.php
-      description: 绿云
-    - title: microcloud
-      url: https://www.microcloud.cc/
-      description: microcloud
-    - title: akkocloud
-      url: https://www.akkocloud.com/
-      description: 二次元vps
-    - title: V.PS
-      url: https://vps.hosting/clientarea/services/tokyo-mini-kvm-vps/      
-      description: V.PS
-    - title: lightnode
-      url: https://www.lightnode.com/     
-      description: lightnode      
+  sub: 
+    - name: VPS
+      links:
+        - title: 搬瓦工
+          url: https://bandwagonhost.com/
+          description: 搬瓦工
+        - title: 数字海洋
+          url: https://www.digitalocean.com/
+          description: digital ocean
+        - title: vultr
+          url: https://www.vultr.com/
+          description: vultr
+        - title: 阿里云国际版
+          url: https://www.alibabacloud.com/zh/product
+          description: 阿里云国际版      
+        - title: 腾讯云
+          url: https://cloud.tencent.com/
+          description: 腾讯云
+        - title: 腾讯云
+          url: https://cloud.tencent.com/
+          description: 腾讯云
+        - title: racknerd
+          url: https://racknerd.com/ 
+          description: racknerd
+        - title: BuyVm
+          url: https://my.frantech.ca/cart.php 
+          description: BuyVm
+        - title: 绿云
+          url: https://greencloudvps.com/billing/index.php
+          description: 绿云
+        - title: microcloud
+          url: https://www.microcloud.cc/
+          description: microcloud
+        - title: akkocloud
+          url: https://www.akkocloud.com/
+          description: 二次元vps
+        - title: V.PS
+          url: https://vps.hosting/clientarea/services/tokyo-mini-kvm-vps/      
+          description: V.PS
+        - title: lightnode
+          url: https://www.lightnode.com/     
+          description: lightnode      
 
 
 - name: 常用工具
   icon: linecons-diamond
   sub: 
-
     - name: 电子书
       links:
         - title: 爱下电子书
