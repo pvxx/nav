@@ -65,10 +65,34 @@
         - title: Z-lib
           url: https://zh.z-lib.org/
           description: Z-lib
-          
+    - name: 笔记app
+      links:
+        - title: 为知笔记
+          url: https://www.wiz.cn/zh-cn
+          description: 为知笔记
+        - title: 印象笔记
+          url: https://www.yinxiang.com/
+          description: 印象笔记
+          - title: 有道笔记
+          url: https://note.youdao.com/
+          description: 有道笔记         
+    - name: 网络硬盘
+      links:
+        - title: 坚果云
+          url: https://www.jianguoyun.com/d/home#/
+          description: 坚果云          
     - name: 视频网站
       links:
-        - title: Sketch
-          url: https://sketchapp.com/
-          description: The digital design toolkit
+        - title: 腾讯视频
+          url: https://v.qq.com/
+          description: 腾讯视频
+
+- name: 其它
+  icon: linecons-thumbs-up
+  links: 
+      links:
+        - title: 腾讯视频
+          url: https://v.qq.com/
+          description: 腾讯视频
+
     
