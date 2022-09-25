@@ -59,10 +59,14 @@
         - title: 爱下电子书
           url: https://www.aixdzs.com/
           description: 爱下电子书
+      links:
+        - title: Z-lib
+          url: https://zh.z-lib.org/
+          description: Z-lib
+          
     - name: 123
       links:
         - title: Sketch
           url: https://sketchapp.com/
-          logo: /assets/images/logos/sketchapp.png
           description: The digital design toolkit
     
