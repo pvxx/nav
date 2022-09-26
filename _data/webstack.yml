@@ -126,7 +126,7 @@
           description: Google Drive
         - title: 百度网盘
           url: https://pan.baidu.com/
-          logo: https://raw.githubusercontent.com/dbback/logo/main/001/baidu.ico
+          logo: /assets/images/logo/baidu.ico
           description: 百度网盘
     - name: 视频网站
       links:
