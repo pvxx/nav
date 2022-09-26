@@ -180,9 +180,9 @@
           url: https://www.itdog.cn/
           description: itdog
         - title: 丢包率检测ping.pe
-          logo: /assets/images/logo/qianqian.ico
+          logo: /assets/images/logo/ping.svg
           url: https://ping.pe/
-          description: 千千音乐
+          description: ping.pe
         - title: 酷狗音乐
           logo: /assets/images/logo/kugou.ico
           url: https://www.kugou.com/
