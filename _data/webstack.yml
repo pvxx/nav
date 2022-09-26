@@ -17,7 +17,7 @@
       logo: /assets/images/logo/fugui.ico
       url: https://www.fglt.cn/forum.php
       description: 富贵论坛
-- name: 服务器资源
+- name: 网络资源
   icon: linecons-doc
   sub: 
     - name: VPS
