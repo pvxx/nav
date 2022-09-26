@@ -105,19 +105,19 @@
     - name: 网络硬盘
       links:
         - title: 坚果云
-          logo: https://www.jianguoyun.com/favicon.ico
+          logo: https://raw.githubusercontent.com/dbback/logo/main/001/jianguoyun.ico
           url: https://www.jianguoyun.com/d/home#/
           description: 坚果云
         - title: 金山文档
-          logo: https://www.kdocs.cn/favicon.ico?cb=https%3A%2F%2Fwww.kdocs.cn%2Fm%2Fcompat%2F
+          logo: https://raw.githubusercontent.com/dbback/logo/main/001/jinshan.ico
           url: https://www.kdocs.cn/latest
           description: 金山文档
         - title: Onedrive
-          logo: https://www.microsoft.com/favicon.ico
+          logo: https://raw.githubusercontent.com/dbback/logo/main/001/onedrive.ico
           url: https://ondrive.live.com/
           description: Onedrive
         - title: Dropbox
-          logo: https://cfl.dropboxstatic.com/static/metaserver/static/images/favicon-vfl8lUR9B.ico
+          logo: https://raw.githubusercontent.com/dbback/logo/main/001/dropbox.ico
           url: https://www.dropbox.com/home
           description: Dropbox
         - title: Google Drive
