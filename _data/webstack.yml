@@ -178,4 +178,11 @@
           url: https://pro.autojs.org/docs/#/zh-cn/engines?id=delay
           logo: /assets/images/logo/autojs.ico
           description: Autojs
-    
+        - title: autohotkey
+          url: https://www.autohotkey.com/
+          logo: /assets/images/logo/autohkey.ico
+          description: autohotkey
+        - title: autoit
+          url: https://www.autoitscript.com/site/
+          logo: /assets/images/logo/autoit.ico
+          description: autoit
