@@ -26,6 +26,7 @@
           logo: https://www.digitalocean.com/_next/static/media/favicon-32x32.b7ef9ede.png
           description: digital ocean
         - title: vultr
+          logo: https://raw.githubusercontent.com/dbback/logo/main/001/vultr.png
           url: https://www.vultr.com/
           description: vultr
         - title: 阿里云国际版
