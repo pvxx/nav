@@ -23,6 +23,10 @@
           logo: /assets/images/logo/v2ex.png
           url: https://www.v2ex.com/
           description: v2ex
+        - title: 博客园
+          logo: /assets/images/logo/bokeyuan.ico
+          url: https://www.cnblogs.com/
+          description: 博客园
 - name: 网络资源
   icon: linecons-doc
   sub: 
