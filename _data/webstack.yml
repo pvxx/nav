@@ -47,6 +47,7 @@
           description: BuyVm
         - title: 绿云
           url: https://greencloudvps.com/billing/index.php
+          logo: https://raw.githubusercontent.com/dbback/logo/main/001/greencloud.png
           description: 绿云
         - title: microcloud
           logo: https://www.microcloud.cc/templates/lagom2/assets/img/favicons/favicon-32.png
@@ -62,6 +63,7 @@
           description: V.PS
         - title: lightnode
           url: https://www.lightnode.com/
+          logo: https://raw.githubusercontent.com/dbback/logo/main/001/lightnode.png
           description: lightnode
         - title: Hostyun
           logo: https://www.hostyun.com/img/favicon.png
