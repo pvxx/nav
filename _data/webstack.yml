@@ -190,8 +190,12 @@
 - name: 学习
   icon: linecons-thumbs-up
   sub: 
-    - name: 自动化
+    - name: 编程
       links:
+        - title: Vscode在线版本
+          url: https://vscode.dev/
+          logo: /assets/images/logo/vscode.ico
+          description: Vscode在线版本
         - title: Autojs
           url: https://pro.autojs.org/docs/#/zh-cn/engines?id=delay
           logo: /assets/images/logo/autojs.ico
