@@ -84,6 +84,10 @@
           url: https://www.juming.com/
           logo: /assets/images/logo/juming.ico
           description: 聚名网
+        - title: Google域名
+          url: https://domains.google.com/
+          logo: /assets/images/logo/googledomain.ico
+          description: Google域名
 - name: 常用工具
   icon: linecons-diamond
   sub: 
