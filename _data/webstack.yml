@@ -1,7 +1,7 @@
 - name: 常用推荐
   icon: linecons-star
   sub: 
-    - name: 电子书
+    - name: xx
       links:
         - title: 115blog
           url: https://115blog.com
@@ -19,14 +19,6 @@
           logo: /assets/images/logo/fugui.ico
           url: https://www.fglt.cn/forum.php
           description: 富贵论坛
-        - title: v2ex
-          logo: /assets/images/logo/v2ex.png
-          url: https://www.v2ex.com/
-          description: v2ex
-        - title: 博客园
-          logo: /assets/images/logo/bokeyuan.ico
-          url: https://www.cnblogs.com/
-          description: 博客园
 - name: 网络资源
   icon: linecons-doc
   sub: 
@@ -226,7 +218,7 @@
 - name: 学习
   icon: linecons-thumbs-up
   sub: 
-    - name: 编程
+    - name: 开发工具
       links:
         - title: Vscode在线版本
           url: https://vscode.dev/
@@ -248,21 +240,53 @@
           url: https://www.python.org/
           logo: /assets/images/logo/python.ico
           description: python
-    - name: 编程
+        - title: 在线表格转换工具
+          url: https://tableconvert.com/zh-CN/
+          logo: /assets/images/logo/tableconvert.png
+          description: 在线表格转换工具
+        - title: SQLite viewer
+          url: https://sqliteviewer.app/
+          logo: /assets/images/logo/sqlliteview.ico
+          description: SQLite viewer
+        - title: GUID在线生成
+          url: hhttps://nav.ops-coffee.cn/tools/guid.html
+          logo: /assets/images/logo/guidgen.ico
+          description: GUID在线生成
+        - title: 菜鸟教程
+          url: https://www.runoob.com/
+          logo: /assets/images/logo/cainiao.ico
+          description: 菜鸟教程
+        - title: 菜鸟工具
+          url: https://c.runoob.com/
+          logo: /assets/images/logo/cainiaotool.ico
+          description: 菜鸟工具
+        - title: 程序员在线工具
+          url: https://tool.lu/
+          logo: /assets/images/logo/xhengxuyuantool.ico
+          description: 程序员在线工具
+        - title: 菜鸟工具
+          url: https://c.runoob.com/
+          logo: /assets/images/logo/cainiaotool.ico
+          description: 菜鸟工具
+    - name: 开发者社区
       links:
-        - title: Vscode在线版本
-          url: https://vscode.dev/
-          logo: /assets/images/logo/vscode.ico
-          description: Vscode在线版本
-        - title: autohotkey
-          url: https://www.autohotkey.com/
-          logo: /assets/images/logo/autohkey.ico
-          description: autohotkey
-        - title: autoit
-          url: https://www.autoitscript.com/site/
-          logo: /assets/images/logo/autoit.ico
-          description: autoit
-        - title: python
-          url: https://www.python.org/
-          logo: /assets/images/logo/python.ico
-          description: python
+        - title: v2ex
+          logo: /assets/images/logo/v2ex.png
+          url: https://www.v2ex.com/
+          description: v2ex
+        - title: 博客园
+          logo: /assets/images/logo/bokeyuan.ico
+          url: https://www.cnblogs.com/
+          description: 博客园
+        - title: 掘金
+          logo: /assets/images/logo/juejin.ico
+          url: https://juejin.cn/
+          description: 掘金
+        - title: 开源中国
+          logo: /assets/images/logo/oschina.ico
+          url: https://www.oschina.net/
+          description: 开源中国
+        - title: stackoverflow
+          logo: /assets/images/logo/stackoverflow.ico
+          url: https://stackoverflow.com/
+          description: stackoverflow
