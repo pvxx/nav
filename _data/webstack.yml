@@ -78,6 +78,12 @@
           logo: /assets/images/logo/justhost.ico
           url: https://justhost.ru/zh
           description: justhost.ru
+    - name: 域名
+      links:
+        - title: 聚名网
+          url: https://www.juming.com/
+          logo: /assets/images/logo/juming.ico
+          description: 聚名网
 - name: 常用工具
   icon: linecons-diamond
   sub: 
