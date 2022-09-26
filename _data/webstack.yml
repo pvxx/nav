@@ -59,6 +59,7 @@
           url: https://www.lightnode.com/
           description: lightnode
         - title: Hostyun
+          logo: https://www.hostyun.com/img/favicon.png
           url: https://www.hostyun.com/
           description: Hostyun
 
@@ -68,6 +69,7 @@
     - name: 电子书
       links:
         - title: 爱下电子书
+          logo: https://m.aixdzs.com/favicon.ico
           url: https://www.aixdzs.com/
           description: 爱下电子书
         - title: Z-lib
@@ -79,17 +81,21 @@
           url: https://www.wiz.cn/zh-cn
           description: 为知笔记
         - title: 印象笔记
+          logo: https://www.yinxiang.com/favicon.ico
           url: https://www.yinxiang.com/
           description: 印象笔记
         - title: 有道笔记
+          logo: https://note.youdao.com/favicon.ico
           url: https://note.youdao.com/
           description: 有道笔记
         - title: Notion
+          logo: https://www.notion.so/front-static/favicon.ico
           url: https://www.notion.so/
           description: Notion
     - name: 网络硬盘
       links:
         - title: 坚果云
+          logo: https://www.jianguoyun.com/favicon.ico
           url: https://www.jianguoyun.com/d/home#/
           description: 坚果云
         - title: 金山文档
@@ -97,6 +103,7 @@
           url: https://www.kdocs.cn/latest
           description: 金山文档
         - title: Onedrive
+          logo: https://www.microsoft.com/favicon.ico
           url: https://ondrive.live.com/
           description: Onedrive
         - title: Dropbox
