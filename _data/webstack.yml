@@ -171,11 +171,11 @@
           description: 酷狗音乐
 - name: 学习
   icon: linecons-thumbs-up
-  links: 
+  sub: 
+    - name: 自动化
       links:
         - title: Autojs
           url: https://pro.autojs.org/docs/#/zh-cn/engines?id=delay
           logo: /assets/images/logo/autojs.ico
           description: Autojs
-
     
