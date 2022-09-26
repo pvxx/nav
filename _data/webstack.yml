@@ -52,6 +52,7 @@
           description: microcloud
         - title: akkocloud
           url: https://www.akkocloud.com/
+          logo: https://raw.githubusercontent.com/dbback/logo/main/001/AKKOcloud.ico
           description: 二次元vps
         - title: V.PS
           logo: https://vps.hosting/templates/2019/dist/images/favicon-32x32.png
@@ -75,7 +76,7 @@
           url: https://www.aixdzs.com/
           description: 爱下电子书
         - title: Z-lib
-          logo: https://raw.githubusercontent.com/dbback/logo/main/zlib.svg
+          logo: https://raw.githubusercontent.com/dbback/logo/main/001/zlib.svg
           url: https://zh.z-lib.org/
           description: Z-lib
     - name: 笔记app
