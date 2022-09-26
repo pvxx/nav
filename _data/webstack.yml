@@ -3,14 +3,14 @@
   links: 
     - title: 115blog
       url: https://115blog.com
-      logo: https://115blog.com/assets/img/favicons/favicon-32x32.png
+      logo: /assets/images/logo/115blog.png
       description: 115blog
     - title: Hostloc
-      logo: https://hostloc.com/favicon.ico
+      logo: /assets/images/logo/hostloc.ico
       url: https://hostloc.com/
       description: Hostloc
     - title: 滴答清单
-      logo: https://www.dida365.com/favicon.ico
+      logo: /assets/images/logo/dida.ico
       url: https://www.dida365.com/
       description: 滴答清单
 - name: 服务器资源
@@ -24,22 +24,22 @@
           description: 搬瓦工
         - title: 数字海洋
           url: https://www.digitalocean.com/
-          logo: https://www.digitalocean.com/_next/static/media/favicon-32x32.b7ef9ede.png
+          logo: /assets/images/logo/digitalocean.png
           description: digital ocean
         - title: vultr
           logo: /assets/images/logo/vultr.png
           url: https://www.vultr.com/
           description: vultr
         - title: 阿里云国际版
-          logo: https://www.alibaba.com/favicon.ico
+          logo: /assets/images/logo/alibaba.ico
           url: https://www.alibabacloud.com/zh/product
           description: 阿里云国际版      
         - title: 腾讯云
-          logo: https://cloud.tencent.com/favicon.ico
+          logo: /assets/images/logo/tencent.ico
           url: https://cloud.tencent.com/
           description: 腾讯云
         - title: racknerd
-          logo: https://racknerd.com/favicon.ico
+          logo: /assets/images/logo/racknerd.ico
           url: https://racknerd.com/ 
           description: racknerd
         - title: BuyVm
@@ -51,7 +51,7 @@
           logo: /assets/images/logo/greencloud.png
           description: 绿云
         - title: microcloud
-          logo: https://www.microcloud.cc/templates/lagom2/assets/img/favicons/favicon-32.png
+          logo: /assets/images/logo/microcloud.png
           url: https://www.microcloud.cc/
           description: microcloud
         - title: akkocloud
@@ -59,7 +59,7 @@
           logo: /assets/images/logo/AKKOcloud.ico
           description: 二次元vps
         - title: V.PS
-          logo: https://vps.hosting/templates/2019/dist/images/favicon-32x32.png
+          logo: /assets/images/logo/logo-vps.png
           url: https://vps.hosting/clientarea/services/tokyo-mini-kvm-vps/      
           description: V.PS
         - title: lightnode
@@ -67,7 +67,7 @@
           logo: /assets/images/logo/lightnode.png
           description: lightnode
         - title: Hostyun
-          logo: https://www.hostyun.com/img/favicon.png
+          logo: /assets/images/logo/hostyun.png
           url: https://www.hostyun.com/
           description: Hostyun
 
@@ -77,7 +77,7 @@
     - name: 电子书
       links:
         - title: 爱下电子书
-          logo: https://m.aixdzs.com/favicon.ico
+          logo: /assets/images/logo/aixia.ico
           url: https://www.aixdzs.com/
           description: 爱下电子书
         - title: Z-lib
@@ -91,15 +91,15 @@
           logo: /assets/images/logo/wiz.ico
           description: 为知笔记
         - title: 印象笔记
-          logo: https://www.yinxiang.com/favicon.ico
+          logo: /assets/images/logo/yinxiang.ico
           url: https://www.yinxiang.com/
           description: 印象笔记
         - title: 有道笔记
-          logo: https://note.youdao.com/favicon.ico
+          logo: /assets/images/logo/youdao.ico
           url: https://note.youdao.com/
           description: 有道笔记
         - title: Notion
-          logo: https://www.notion.so/front-static/favicon.ico
+          logo: /assets/images/logo/notion.ico
           url: https://www.notion.so/
           description: Notion
     - name: 网络硬盘
@@ -121,7 +121,7 @@
           url: https://www.dropbox.com/home
           description: Dropbox
         - title: Google Drive
-          logo: https://www.google.com/favicon.ico
+          logo: /assets/images/logo/googledrive.ico
           url: https://drive.google.com/
           description: Google Drive
         - title: 百度网盘
@@ -131,7 +131,7 @@
     - name: 视频网站
       links:
         - title: 腾讯视频
-          logo: https://cloud.tencent.com/favicon.ico
+          logo: /assets/images/logo/tencentvideo.ico
           url: https://v.qq.com/
           description: 腾讯视频
 - name: 其它
