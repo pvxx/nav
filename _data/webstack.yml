@@ -169,12 +169,13 @@
           logo: /assets/images/logo/kugou.ico
           url: https://www.kugou.com/
           description: 酷狗音乐
-- name: 其它
+- name: 学习
   icon: linecons-thumbs-up
   links: 
       links:
-        - title: 腾讯视频
-          url: https://v.qq.com/
-          description: 腾讯视频
+        - title: Autojs
+          url: https://pro.autojs.org/docs/#/zh-cn/engines?id=delay
+          logo: /assets/images/logo/autojs.ico
+          description: Autojs
 
     
