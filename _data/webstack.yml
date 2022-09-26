@@ -20,14 +20,14 @@
       links:
         - title: 搬瓦工
           url: https://bandwagonhost.com/
-          logo: https://raw.githubusercontent.com/dbback/logo/main/001/banwagong.PNG
+          logo: /assets/images/logo/banwagong.PNG
           description: 搬瓦工
         - title: 数字海洋
           url: https://www.digitalocean.com/
           logo: https://www.digitalocean.com/_next/static/media/favicon-32x32.b7ef9ede.png
           description: digital ocean
         - title: vultr
-          logo: https://raw.githubusercontent.com/dbback/logo/main/001/vultr.png
+          logo: /assets/images/logo/vultr.png
           url: https://www.vultr.com/
           description: vultr
         - title: 阿里云国际版
@@ -44,11 +44,11 @@
           description: racknerd
         - title: BuyVm
           url: https://my.frantech.ca/cart.php
-          logo: https://raw.githubusercontent.com/dbback/logo/main/001/buyvm.png 
+          logo: /assets/images/logo/buyvm.png 
           description: BuyVm
         - title: 绿云
           url: https://greencloudvps.com/billing/index.php
-          logo: https://raw.githubusercontent.com/dbback/logo/main/001/greencloud.png
+          logo: /assets/images/logo/greencloud.png
           description: 绿云
         - title: microcloud
           logo: https://www.microcloud.cc/templates/lagom2/assets/img/favicons/favicon-32.png
@@ -56,7 +56,7 @@
           description: microcloud
         - title: akkocloud
           url: https://www.akkocloud.com/
-          logo: https://raw.githubusercontent.com/dbback/logo/main/001/AKKOcloud.ico
+          logo: /assets/images/logo/AKKOcloud.ico
           description: 二次元vps
         - title: V.PS
           logo: https://vps.hosting/templates/2019/dist/images/favicon-32x32.png
@@ -64,7 +64,7 @@
           description: V.PS
         - title: lightnode
           url: https://www.lightnode.com/
-          logo: https://raw.githubusercontent.com/dbback/logo/main/001/lightnode.png
+          logo: /assets/images/logo/lightnode.png
           description: lightnode
         - title: Hostyun
           logo: https://www.hostyun.com/img/favicon.png
@@ -81,14 +81,14 @@
           url: https://www.aixdzs.com/
           description: 爱下电子书
         - title: Z-lib
-          logo: https://raw.githubusercontent.com/dbback/logo/main/001/zlib.svg
+          logo: /assets/images/logo/zlib.svg
           url: https://zh.z-lib.org/
           description: Z-lib
     - name: 笔记app
       links:
         - title: 为知笔记
           url: https://www.wiz.cn/zh-cn
-          logo: https://raw.githubusercontent.com/dbback/logo/main/001/wiz.ico
+          logo: /assets/images/logo/wiz.ico
           description: 为知笔记
         - title: 印象笔记
           logo: https://www.yinxiang.com/favicon.ico
@@ -105,19 +105,19 @@
     - name: 网络硬盘
       links:
         - title: 坚果云
-          logo: https://raw.githubusercontent.com/dbback/logo/main/001/jianguoyun.ico
+          logo: /assets/images/logo/jianguoyun.ico
           url: https://www.jianguoyun.com/d/home#/
           description: 坚果云
         - title: 金山文档
-          logo: https://raw.githubusercontent.com/dbback/logo/main/001/jinshan.ico
+          logo: /assets/images/logo/jinshan.ico
           url: https://www.kdocs.cn/latest
           description: 金山文档
         - title: Onedrive
-          logo: https://raw.githubusercontent.com/dbback/logo/main/001/onedrive.ico
+          logo: /assets/images/logo/onedrive.ico
           url: https://ondrive.live.com/
           description: Onedrive
         - title: Dropbox
-          logo: https://raw.githubusercontent.com/dbback/logo/main/001/dropbox.ico
+          logo: /assets/images/logo/dropbox.ico
           url: https://www.dropbox.com/home
           description: Dropbox
         - title: Google Drive
