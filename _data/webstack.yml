@@ -264,10 +264,6 @@
           url: https://tool.lu/
           logo: /assets/images/logo/xhengxuyuantool.ico
           description: 程序员在线工具
-        - title: 菜鸟工具
-          url: https://c.runoob.com/
-          logo: /assets/images/logo/cainiaotool.ico
-          description: 菜鸟工具
     - name: 开发者社区
       links:
         - title: v2ex
