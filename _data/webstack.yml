@@ -1,22 +1,28 @@
 - name: 常用推荐
   icon: linecons-star
-  links: 
-    - title: 115blog
-      url: https://115blog.com
-      logo: /assets/images/logo/115blog.png
-      description: 115blog
-    - title: Hostloc
-      logo: /assets/images/logo/hostloc.ico
-      url: https://hostloc.com/
-      description: Hostloc
-    - title: 滴答清单
-      logo: /assets/images/logo/dida.ico
-      url: https://www.dida365.com/
-      description: 滴答清单
-    - title: 富贵论坛
-      logo: /assets/images/logo/fugui.ico
-      url: https://www.fglt.cn/forum.php
-      description: 富贵论坛
+  sub: 
+    - name: 电子书
+      links:
+        - title: 115blog
+          url: https://115blog.com
+          logo: /assets/images/logo/115blog.png
+          description: 115blog
+        - title: Hostloc
+          logo: /assets/images/logo/hostloc.ico
+          url: https://hostloc.com/
+          description: Hostloc
+        - title: 滴答清单
+          logo: /assets/images/logo/dida.ico
+          url: https://www.dida365.com/
+          description: 滴答清单
+        - title: 富贵论坛
+          logo: /assets/images/logo/fugui.ico
+          url: https://www.fglt.cn/forum.php
+          description: 富贵论坛
+        - title: v2ex
+          logo: /assets/images/logo/v2ex.png
+          url: https://www.v2ex.com/
+          description: v2ex
 - name: 网络资源
   icon: linecons-doc
   sub: 
@@ -191,6 +197,24 @@
           logo: /assets/images/logo/ping.svg
           url: https://ping.pe/
           description: ping.pe
+        - title: ipip
+          logo: /assets/images/logo/ipip.ico
+          url: https://en.ipip.net/
+          description: ipip
+    - name: 软件推荐
+      links:
+        - title: 少数派
+          logo: /assets/images/logo/sspai.ico
+          url: https://sspai.com/
+          description: 少数派
+        - title: 小众软件
+          logo: /assets/images/logo/xiaozhong.ico
+          url: https://www.appinn.com/
+          description: 小众软件
+        - title: 吾爱破解
+          logo: /assets/images/logo/52pojie.ico
+          url: https://www.52pojie.cn/
+          description: 吾爱破解
         - title: ipip
           logo: /assets/images/logo/ipip.ico
           url: https://en.ipip.net/
