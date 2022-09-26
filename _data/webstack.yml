@@ -155,6 +155,10 @@
           logo: /assets/images/logo/youku.png
           url: https://www.youku.com/
           description: 优酷视频
+        - title: Youtube
+          logo: /assets/images/logo/youtube.ico
+          url: https://www.youtube.com/
+          description: Youtube
     - name: 音乐网站
       links:
         - title: 网易音乐
