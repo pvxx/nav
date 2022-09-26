@@ -183,10 +183,10 @@
           logo: /assets/images/logo/ping.svg
           url: https://ping.pe/
           description: ping.pe
-        - title: 酷狗音乐
-          logo: /assets/images/logo/kugou.ico
-          url: https://www.kugou.com/
-          description: 酷狗音乐
+        - title: ipip
+          logo: /assets/images/logo/ipip.ico
+          url: https://en.ipip.net/
+          description: ipip
 - name: 学习
   icon: linecons-thumbs-up
   sub: 
