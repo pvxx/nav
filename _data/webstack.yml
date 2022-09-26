@@ -75,6 +75,7 @@
           url: https://www.aixdzs.com/
           description: 爱下电子书
         - title: Z-lib
+          logo: https://raw.githubusercontent.com/dbback/logo/main/zlib.svg
           url: https://zh.z-lib.org/
           description: Z-lib
     - name: 笔记app
