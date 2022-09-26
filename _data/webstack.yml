@@ -169,6 +169,24 @@
           logo: /assets/images/logo/kugou.ico
           url: https://www.kugou.com/
           description: 酷狗音乐
+    - name: 站长工具
+      links:
+        - title: ping检测
+          logo: /assets/images/logo/pingtest.ico
+          url: https://ping.chinaz.com/
+          description: ping检测
+        - title: itdog
+          logo: /assets/images/logo/itdog.ico
+          url: https://www.itdog.cn/
+          description: itdog
+        - title: 丢包率检测ping.pe
+          logo: /assets/images/logo/qianqian.ico
+          url: https://ping.pe/
+          description: 千千音乐
+        - title: 酷狗音乐
+          logo: /assets/images/logo/kugou.ico
+          url: https://www.kugou.com/
+          description: 酷狗音乐
 - name: 学习
   icon: linecons-thumbs-up
   sub: 
@@ -178,6 +196,24 @@
           url: https://pro.autojs.org/docs/#/zh-cn/engines?id=delay
           logo: /assets/images/logo/autojs.ico
           description: Autojs
+        - title: autohotkey
+          url: https://www.autohotkey.com/
+          logo: /assets/images/logo/autohkey.ico
+          description: autohotkey
+        - title: autoit
+          url: https://www.autoitscript.com/site/
+          logo: /assets/images/logo/autoit.ico
+          description: autoit
+        - title: python
+          url: https://www.python.org/
+          logo: /assets/images/logo/python.ico
+          description: python
+    - name: 编程
+      links:
+        - title: Vscode在线版本
+          url: https://vscode.dev/
+          logo: /assets/images/logo/vscode.ico
+          description: Vscode在线版本
         - title: autohotkey
           url: https://www.autohotkey.com/
           logo: /assets/images/logo/autohkey.ico
