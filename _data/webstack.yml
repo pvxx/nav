@@ -134,6 +134,28 @@
           logo: /assets/images/logo/tencentvideo.ico
           url: https://v.qq.com/
           description: 腾讯视频
+        - title: 优酷视频
+          logo: /assets/images/logo/youku.png
+          url: https://www.youku.com/
+          description: 优酷视频
+    - name: 音乐网站
+      links:
+        - title: 网易音乐
+          logo: /assets/images/logo/wangyi.ico
+          url: https://music.163.com/
+          description: 腾讯视频
+        - title: QQ音乐
+          logo: /assets/images/logo/qqmusic.ico
+          url: https://y.qq.com/
+          description: QQ音乐
+        - title: 千千音乐
+          logo: /assets/images/logo/qianqian.ico
+          url: https://music.91q.com/
+          description: 千千音乐
+        - title: 酷狗音乐
+          logo: /assets/images/logo/kugou.ico
+          url: https://www.kugou.com/
+          description: 酷狗音乐
 - name: 其它
   icon: linecons-thumbs-up
   links: 
