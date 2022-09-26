@@ -13,6 +13,10 @@
       logo: /assets/images/logo/dida.ico
       url: https://www.dida365.com/
       description: 滴答清单
+    - title: 富贵论坛
+      logo: /assets/images/logo/fugui.ico
+      url: https://www.fglt.cn/forum.php
+      description: 富贵论坛
 - name: 服务器资源
   icon: linecons-doc
   sub: 
