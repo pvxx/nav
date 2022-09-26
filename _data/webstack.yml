@@ -43,7 +43,8 @@
           url: https://racknerd.com/ 
           description: racknerd
         - title: BuyVm
-          url: https://my.frantech.ca/cart.php 
+          url: https://my.frantech.ca/cart.php
+          logo: https://raw.githubusercontent.com/dbback/logo/main/001/buyvm.png 
           description: BuyVm
         - title: 绿云
           url: https://greencloudvps.com/billing/index.php
