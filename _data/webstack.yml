@@ -9,6 +9,10 @@
       logo: https://hostloc.com/favicon.ico
       url: https://hostloc.com/
       description: Hostloc
+    - title: 滴答清单
+      logo: https://www.dida365.com/favicon.ico
+      url: https://www.dida365.com/
+      description: 滴答清单
 - name: 服务器资源
   icon: linecons-doc
   sub: 
@@ -108,6 +112,13 @@
           logo: https://cfl.dropboxstatic.com/static/metaserver/static/images/favicon-vfl8lUR9B.ico
           url: https://www.dropbox.com/home
           description: Dropbox
+        - title: Google Drive
+          logo: https://www.google.com/favicon.ico
+          url: https://drive.google.com/
+          description: Google Drive
+        - title: 百度网盘
+          url: https://pan.baidu.com/
+          description: 百度网盘
     - name: 视频网站
       links:
         - title: 腾讯视频
