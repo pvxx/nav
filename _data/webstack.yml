@@ -186,3 +186,7 @@
           url: https://www.autoitscript.com/site/
           logo: /assets/images/logo/autoit.ico
           description: autoit
+        - title: python
+          url: https://www.python.org/
+          logo: /assets/images/logo/python.ico
+          description: python
