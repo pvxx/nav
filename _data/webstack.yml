@@ -74,7 +74,10 @@
           logo: /assets/images/logo/hostyun.png
           url: https://www.hostyun.com/
           description: Hostyun
-
+        - title: 老毛子justhost.ru
+          logo: /assets/images/logo/justhost.ico
+          url: https://justhost.ru/zh
+          description: justhost.ru
 - name: 常用工具
   icon: linecons-diamond
   sub: 
