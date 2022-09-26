@@ -29,9 +29,7 @@
           url: https://www.alibabacloud.com/zh/product
           description: 阿里云国际版      
         - title: 腾讯云
-          url: https://cloud.tencent.com/
-          description: 腾讯云
-        - title: 腾讯云
+          logo: https://cloud.tencent.com/favicon.ico
           url: https://cloud.tencent.com/
           description: 腾讯云
         - title: racknerd
