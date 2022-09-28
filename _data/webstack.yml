@@ -90,6 +90,10 @@
           url: https://domains.google.com/
           logo: /assets/images/logo/googledomain.ico
           description: Google域名
+        - title: cloudflare
+          url: https://www.cloudflare.com/zh-cn/
+          logo: /assets/images/logo/cloudflare.ico
+          description: cloudflare
 - name: 常用工具
   icon: linecons-diamond
   sub: 
