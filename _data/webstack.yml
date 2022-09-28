@@ -215,10 +215,6 @@
           logo: /assets/images/logo/52pojie.ico
           url: https://www.52pojie.cn/
           description: 吾爱破解
-        - title: ipip
-          logo: /assets/images/logo/ipip.ico
-          url: https://en.ipip.net/
-          description: ipip
     - name: 特殊工具
       links:
         - title: QQ挂机
@@ -259,7 +255,7 @@
           logo: /assets/images/logo/sqlliteview.ico
           description: SQLite viewer
         - title: GUID在线生成
-          url: hhttps://nav.ops-coffee.cn/tools/guid.html
+          url: https://nav.ops-coffee.cn/tools/guid.html
           logo: /assets/images/logo/guidgen.ico
           description: GUID在线生成
         - title: 菜鸟教程
