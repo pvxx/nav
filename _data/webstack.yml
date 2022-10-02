@@ -303,6 +303,14 @@
           logo: /assets/images/logo/zlib.svg
           url: https://zh.z-lib.org/
           description: Z-lib
+        - title: 熊猫搜书
+          logo: /assets/images/logo/xiongmao.ico
+          url: https://xmsoushu.com/#/
+          description: 熊猫搜书
+        - title: 鸠摩搜索
+          logo: /assets/images/logo/jiumo.png
+          url: https://www.jiumodiary.com/
+          description: 鸠摩搜索
 - name: 其它
   icon: linecons-pencil
   sub: 
