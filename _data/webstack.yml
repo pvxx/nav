@@ -1,4 +1,4 @@
-- name: 常用网站
+- name: 经常访问
   icon: linecons-star
   sub: 
     - name: xx
@@ -19,7 +19,7 @@
           logo: /assets/images/logo/fugui.ico
           url: https://www.fglt.cn/forum.php
           description: 富贵论坛
-- name: 云服务
+- name: 服务
   icon: linecons-doc
   sub: 
     - name: VPS
@@ -120,7 +120,7 @@
           url: https://pan.baidu.com/
           logo: /assets/images/logo/baidu.ico
           description: 百度网盘
-- name: 常用工具
+- name: 工具
   icon: linecons-diamond
   sub: 
     - name: 电子书
@@ -192,7 +192,7 @@
 - name: 学习
   icon: linecons-thumbs-up
   sub: 
-    - name: 开发工具
+    - name: 开发资源
       links:
         - title: Vscode在线版本
           url: https://vscode.dev/
@@ -264,20 +264,9 @@
           logo: /assets/images/logo/stackoverflow.ico
           url: https://stackoverflow.com/
           description: stackoverflow
-- name: 生活娱乐
+- name: 娱乐
   icon: linecons-user
   sub: 
-    - name: 开发工具
-      links:
-        - title: Vscode在线版本
-          url: https://vscode.dev/
-          logo: /assets/images/logo/vscode.ico
-          description: Vscode在线版本
-        - title: Autojs
-          url: https://pro.autojs.org/docs/#/zh-cn/engines?id=delay
-          logo: /assets/images/logo/autojs.ico
-          description: Autojs
-        - title: autohotkey
     - name: 音乐网站
       links:
         - title: 网易音乐
