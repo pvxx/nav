@@ -19,6 +19,10 @@
           logo: /assets/images/logo/fugui.ico
           url: https://www.fglt.cn/forum.php
           description: 富贵论坛
+        - title: 126邮箱
+          url: https://mail.126.com/
+          logo: /assets/images/logo/126mail.png
+          description: 126邮箱
 - name: 服务
   icon: linecons-doc
   sub: 
@@ -123,16 +127,6 @@
 - name: 工具
   icon: linecons-diamond
   sub: 
-    - name: 电子书
-      links:
-        - title: 爱下电子书
-          logo: /assets/images/logo/aixia.ico
-          url: https://www.aixdzs.com/
-          description: 爱下电子书
-        - title: Z-lib
-          logo: /assets/images/logo/zlib.svg
-          url: https://zh.z-lib.org/
-          description: Z-lib
     - name: 笔记app
       links:
         - title: 为知笔记
@@ -299,6 +293,16 @@
           logo: /assets/images/logo/youtube.ico
           url: https://www.youtube.com/
           description: Youtube
+    - name: 电子书
+      links:
+        - title: 爱下电子书
+          logo: /assets/images/logo/aixia.ico
+          url: https://www.aixdzs.com/
+          description: 爱下电子书
+        - title: Z-lib
+          logo: /assets/images/logo/zlib.svg
+          url: https://zh.z-lib.org/
+          description: Z-lib
 - name: 其它
   icon: linecons-pencil
   sub: 
