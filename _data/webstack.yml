@@ -19,7 +19,7 @@
           logo: /assets/images/logo/fugui.ico
           url: https://www.fglt.cn/forum.php
           description: 富贵论坛
-- name: 网络资源
+- name: 云服务
   icon: linecons-doc
   sub: 
     - name: VPS
@@ -94,6 +94,32 @@
           url: https://www.cloudflare.com/zh-cn/
           logo: /assets/images/logo/cloudflare.ico
           description: cloudflare
+    - name: 网络硬盘
+      links:
+        - title: 坚果云
+          logo: /assets/images/logo/jianguoyun.ico
+          url: https://www.jianguoyun.com/d/home#/
+          description: 坚果云
+        - title: 金山文档
+          logo: /assets/images/logo/jinshan.ico
+          url: https://www.kdocs.cn/latest
+          description: 金山文档
+        - title: Onedrive
+          logo: /assets/images/logo/onedrive.ico
+          url: https://ondrive.live.com/
+          description: Onedrive
+        - title: Dropbox
+          logo: /assets/images/logo/dropbox.ico
+          url: https://www.dropbox.com/home
+          description: Dropbox
+        - title: Google Drive
+          logo: /assets/images/logo/googledrive.ico
+          url: https://drive.google.com/
+          description: Google Drive
+        - title: 百度网盘
+          url: https://pan.baidu.com/
+          logo: /assets/images/logo/baidu.ico
+          description: 百度网盘
 - name: 常用工具
   icon: linecons-diamond
   sub: 
@@ -125,32 +151,6 @@
           logo: /assets/images/logo/notion.ico
           url: https://www.notion.so/
           description: Notion
-    - name: 网络硬盘
-      links:
-        - title: 坚果云
-          logo: /assets/images/logo/jianguoyun.ico
-          url: https://www.jianguoyun.com/d/home#/
-          description: 坚果云
-        - title: 金山文档
-          logo: /assets/images/logo/jinshan.ico
-          url: https://www.kdocs.cn/latest
-          description: 金山文档
-        - title: Onedrive
-          logo: /assets/images/logo/onedrive.ico
-          url: https://ondrive.live.com/
-          description: Onedrive
-        - title: Dropbox
-          logo: /assets/images/logo/dropbox.ico
-          url: https://www.dropbox.com/home
-          description: Dropbox
-        - title: Google Drive
-          logo: /assets/images/logo/googledrive.ico
-          url: https://drive.google.com/
-          description: Google Drive
-        - title: 百度网盘
-          url: https://pan.baidu.com/
-          logo: /assets/images/logo/baidu.ico
-          description: 百度网盘
     - name: 视频网站
       links:
         - title: 腾讯视频
@@ -296,3 +296,17 @@
           logo: /assets/images/logo/stackoverflow.ico
           url: https://stackoverflow.com/
           description: stackoverflow
+- name: UED团队
+  icon: linecons-user
+  sub: 
+    - name: 开发工具
+      links:
+        - title: Vscode在线版本
+          url: https://vscode.dev/
+          logo: /assets/images/logo/vscode.ico
+          description: Vscode在线版本
+        - title: Autojs
+          url: https://pro.autojs.org/docs/#/zh-cn/engines?id=delay
+          logo: /assets/images/logo/autojs.ico
+          description: Autojs
+        - title: autohotkey
