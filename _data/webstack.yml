@@ -94,7 +94,7 @@
           url: https://www.cloudflare.com/zh-cn/
           logo: /assets/images/logo/cloudflare.ico
           description: cloudflare
-    - name: 网络硬盘
+    - name: 网盘
       links:
         - title: 坚果云
           logo: /assets/images/logo/jianguoyun.ico
@@ -299,3 +299,16 @@
           logo: /assets/images/logo/youtube.ico
           url: https://www.youtube.com/
           description: Youtube
+- name: 其它
+  icon: linecons-pencil
+  sub: 
+    - name: 邮箱
+      links:
+        - title: 126邮箱
+          url: https://mail.126.com/
+          logo: /assets/images/logo/126mail.png
+          description: 126邮箱
+        - title: 139邮箱
+          url: https://mail.10086.cn/
+          logo: /assets/images/logo/139mail.png
+          description: 139邮箱
