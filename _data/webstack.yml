@@ -316,3 +316,7 @@
           url: https://mail.10086.cn/
           logo: /assets/images/logo/139mail.png
           description: 139邮箱
+        - title: Gmail
+          url: https://mail.google.com/
+          logo: /assets/images/logo/gmail.ico
+          description: Gmail
