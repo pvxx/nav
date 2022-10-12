@@ -138,7 +138,10 @@
           url: https://115.com/
           logo: /assets/images/logo/115.ico
           description: 115网盘
-
+        - title: 天翼网盘
+          url: https://cloud.189.cn/
+          logo: /assets/images/logo/tianyiwangpan.ico
+          description: 天翼网盘
 - name: 工具
   icon: linecons-diamond
   sub: 
