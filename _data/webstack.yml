@@ -134,6 +134,11 @@
           url: https://pan.baidu.com/
           logo: /assets/images/logo/baidu.ico
           description: 百度网盘
+        - title: 115网盘
+          url: https://115.com/
+          logo: /assets/images/logo/115.ico
+          description: 115网盘
+
 - name: 工具
   icon: linecons-diamond
   sub: 
