@@ -346,3 +346,11 @@
           url: https://mail.google.com/
           logo: /assets/images/logo/gmail.ico
           description: Gmail
+        - title: QQ邮箱
+          url: https://mail.qq.com/
+          logo: /assets/images/logo/qqmail.ico
+          description: QQ邮箱
+        - title: yahoo邮箱
+          url: https://mail.yahoo.com/
+          logo: /assets/images/logo/mailyahoo.ico
+          description: yahoo邮箱
