@@ -98,6 +98,16 @@
           url: https://www.cloudflare.com/zh-cn/
           logo: /assets/images/logo/cloudflare.ico
           description: cloudflare
+        - title: godaddy
+          url: https://www.godaddy.com/zh-sg
+          logo: /assets/images/logo/godaddy.png
+          description: godaddy
+        - title: namecheap
+          url: https://www.namecheap.com/
+          logo: /assets/images/logo/namecheap.png
+          description: namecheap
+
+
     - name: 网盘
       links:
         - title: 坚果云
