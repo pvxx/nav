@@ -84,6 +84,10 @@
           logo: /assets/images/logo/justhost.ico
           url: https://justhost.ru/zh
           description: justhost.ru
+        - title: 朝暮数据
+          logo: /assets/images/logo/zhaomu.ico
+          url: https://zhaomu.com/site/index
+          description: 朝暮数据
     - name: 域名
       links:
         - title: 聚名网
