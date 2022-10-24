@@ -258,6 +258,10 @@
           url: https://tool.lu/
           logo: /assets/images/logo/base64.ico
           description: Base64 在线编码解码
+        - title: crontab 规则
+          url: https://crontab.guru/
+          logo: /assets/images/logo/crontab.png
+          description: crontab 规则
     - name: 开发者社区
       links:
         - title: v2ex
