@@ -262,6 +262,10 @@
           url: https://crontab.guru/
           logo: /assets/images/logo/crontab.png
           description: crontab 规则
+        - title: web ssh 客户端
+          url: https://app.tabby.sh/
+          logo: /assets/images/logo/webssh.png
+          description: web ssh          
     - name: 开发者社区
       links:
         - title: v2ex
