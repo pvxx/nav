@@ -110,8 +110,6 @@
           url: https://www.namecheap.com/
           logo: /assets/images/logo/namecheap.png
           description: namecheap
-
-
     - name: 网盘
       links:
         - title: 坚果云
@@ -146,6 +144,17 @@
           url: https://cloud.189.cn/
           logo: /assets/images/logo/tianyiwangpan.ico
           description: 天翼网盘
+    - name: 支付
+      links:
+        - title: 万里付
+          logo: /assets/images/logo/wanlifu.ico
+          url: https://www.worldfirst.com.cn/cn/
+          description: 万里付
+        - title: paypal
+          logo: /assets/images/logo/paypal.ico
+          url: https://www.paypal.com/hk/webapps/mpp/home
+          description: paypal
+
 - name: 工具
   icon: linecons-diamond
   sub: 
