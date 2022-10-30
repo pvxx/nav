@@ -154,7 +154,14 @@
           logo: /assets/images/logo/paypal.ico
           url: https://www.paypal.com/hk/webapps/mpp/home
           description: paypal
-
+        - title: pingpong
+          logo: /assets/images/logo/pingpong.ico
+          url: https://www.pingpongx.com/
+          description: pingpong
+        - title: Payoneer
+          logo: /assets/images/logo/Payoneer.ico
+          url: https://www.payoneer.com/zh/
+          description: Payoneer
 - name: 工具
   icon: linecons-diamond
   sub: 
