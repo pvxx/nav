@@ -146,10 +146,10 @@
           description: 天翼网盘
     - name: 支付
       links:
-        - title: 万里付
+        - title: 万里汇
           logo: /assets/images/logo/wanlifu.ico
           url: https://www.worldfirst.com.cn/cn/
-          description: 万里付
+          description: 万里汇
         - title: paypal
           logo: /assets/images/logo/paypal.ico
           url: https://www.paypal.com/hk/webapps/mpp/home
