@@ -162,6 +162,10 @@
           logo: /assets/images/logo/Payoneer.ico
           url: https://www.payoneer.com/zh/
           description: Payoneer
+        - title: Wise
+          logo: /assets/images/logo/wise.ico
+          url: https://wise.com/activity/
+          description: Wise
 - name: 工具
   icon: linecons-diamond
   sub: 
