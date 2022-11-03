@@ -8,9 +8,9 @@
           logo: /assets/images/logo/115blog.png
           description: 115blog
         - title: 我的常用网站列表
-          url: https://115blog.com
+          url: https://115blog.com/posts/%E6%88%91%E7%9A%84%E5%B8%B8%E7%94%A8%E7%BD%91%E7%AB%99/
           logo: /assets/images/logo/115blog.png
-          description: 115blog
+          description: 我的常用网站列表
         - title: Hostloc
           logo: /assets/images/logo/hostloc.ico
           url: https://hostloc.com/
