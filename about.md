@@ -3,7 +3,7 @@ permalink: /about.html
 layout: about
 ---
 
-#### 关于网站
+#### 快速索引
 
 --- 
 
