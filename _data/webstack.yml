@@ -27,6 +27,10 @@
           url: https://mail.126.com/
           logo: /assets/images/logo/126mail.png
           description: 126邮箱
+        - title: markdown语法
+          url: https://xianbai.me/learn-md/index.html
+          logo: /assets/images/logo/markdown.ico
+          description: markdown语法
 - name: 服务
   icon: linecons-doc
   sub: 
