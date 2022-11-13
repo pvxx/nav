@@ -152,6 +152,14 @@
           url: https://cloud.189.cn/
           logo: /assets/images/logo/tianyiwangpan.ico
           description: 天翼网盘
+        - title: iDrive 
+          url: https://www.idrive.com/e2/
+          logo: /assets/images/logo/idrivee2.ico
+          description: iDrive 支持 AWS S3
+        - title: wasabi  
+          url: https://wasabi.com/cloud-storage-pricing/
+          logo: /assets/images/logo/wsabi.png
+          description: wasabi  支持 AWS S3
     - name: 支付
       links:
         - title: 万里汇
