@@ -96,6 +96,10 @@
           logo: /assets/images/logo/zhaomu.ico
           url: https://zhaomu.com/site/index
           description: 朝暮数据
+        - title: Just My Socks
+          logo: /assets/images/logo/justmysocks.png
+          url: https://justmysocks.net/members/clientarea.php
+          description: Just My Socks
     - name: 域名
       links:
         - title: 聚名网
