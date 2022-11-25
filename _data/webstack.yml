@@ -31,6 +31,10 @@
           url: https://xianbai.me/learn-md/index.html
           logo: /assets/images/logo/markdown.ico
           description: markdown语法
+        - title: 在线PS
+          url: https://www.photopea.com/
+          logo: /assets/images/logo/zaixianps.png
+          description: 在线PS
 - name: 服务
   icon: linecons-doc
   sub: 
