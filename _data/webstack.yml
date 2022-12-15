@@ -249,6 +249,10 @@
           logo: /assets/images/logo/ruoshui.png
           url: https://nadeit.cnerw.org/
           description: 若水
+        - title: ChatGPT
+          logo: /assets/images/logo/chatgpt.png
+          url: https://chat.openai.com/chat
+          description: ChatGPT
 - name: 学习
   icon: linecons-thumbs-up
   sub: 
