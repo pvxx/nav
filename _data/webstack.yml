@@ -104,6 +104,10 @@
           logo: /assets/images/logo/justmysocks.png
           url: https://justmysocks.net/members/clientarea.php
           description: Just My Socks
+        - title: Hostiger-土耳其vps
+          logo: /assets/images/logo/tkhost.png
+          url: https://hostiger.com/
+          description: Hostiger
     - name: 域名
       links:
         - title: 聚名网
